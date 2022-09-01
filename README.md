@@ -4,10 +4,9 @@
 
 <br />
 
-<p align="center">
-<img src="screenshots/homePage.png" width="300"/>
-<img src="screenshots/article.png" width="300"/>
-</p>
+|                Home Screen                 |                  Article Screen                   |
+| :----------------------------------------: | :-----------------------------------------------: |
+| ![Home Screen](screenshots/homeScreen.png) | ![Article Screen ](screenshots/articleScreen.png) |
 
 <br />
 <hr/>
